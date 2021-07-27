@@ -4,7 +4,7 @@ I'm Jacob Marshall, a developer from London, UK. I'm fasinated by all things nod
 <br>
 <br>
 [![Website](https://img.shields.io/website?label=🌐%20%20My%20website&style=for-the-badge&url=https%3A%2F%2Fjacobhq.xyz)](https://jacobhq.xyz/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/yes_jacob_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/yes_jacob_)
+[![Twitter Follow](https://img.shields.io/twitter/follow/yes_jacob_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/jhqcat)
 
 ## Stats 📈
 ![GitHub metrics](./github-metrics.svg)
